@@ -80,6 +80,7 @@ https://www.ecorobotics.com.na/products/lafvin-11mm-190cm-glue-stick?variant=482
 
 https://www.ecorobotics.com.na/products/lafvin-universal-glue-gun-sd-a601-with-switch?variant=48200437006573
 
+👉100G 0.8mm Solder 1.0% Flux --------------------------- ()- (Qty: 1)
 
 
 
