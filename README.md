@@ -96,7 +96,10 @@ https://www.ecorobotics.com.na/products/6x8-cm-universal-pcb-prototype-board?var
 
 https://www.ecorobotics.com.na/products/dupont-female-to-female-20-cm-40pcs-jumper-cable?variant=30711634919486
 
+====Final Touches====
+-
 
+👉
 
 
 
