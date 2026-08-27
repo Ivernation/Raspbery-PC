@@ -48,6 +48,10 @@ https://www.ecorobotics.com.na/products/usb-c-to-hdmi-adapter?variant=4729919261
 
 https://www.ecorobotics.com.na/products/raspberry-pi-a2-class-64gb-sd-cards-preloaded-with-raspberry-pi-os-64bit?variant=48979922649325
 
+                                        \====power supply====/
+
+👉NOYITO 5V 5A 25W DC to DC Buck Module ------------------()
+
 
 
 
