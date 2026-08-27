@@ -21,13 +21,15 @@ Hello Stardance 👋 I've always wanted to build something like this, I'm really
 The screen will be on a separate mount it's the one that that will that will contain things like the speakers, microphone, camera and the display of course. It will be connected to the pc with an HDMI cable. This also means the pc can connect to any other display that supports HDMI input just like any regular pc would!
 
 Getting into the specifics the component rang would include the following
+
 Wisper: All prices are in USD 🫣
 
 
                                         \====The Fundimentals====/ 
           
 
-👉 Raspberry Pi 5 4GB          ($112.10)
+👉 Raspberry Pi 5 4GB          $112.10
+
     ~https://www.ecorobotics.com.na/products/raspberry-pi5-4gb?_pos=61&_sid=f076046b0&_ss=r
    
 
