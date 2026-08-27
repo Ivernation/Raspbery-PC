@@ -92,6 +92,8 @@ https://www.ecorobotics.com.na/products/100g-0-8mm-solder-2-0-flux?variant=42118
 
 https://www.ecorobotics.com.na/products/6x8-cm-universal-pcb-prototype-board?variant=40298243195057
 
+👉Dupont Female to Female 20 cm 40pcs Jumper Cable ------ () - (Qty: 1)
+
 
 
 
