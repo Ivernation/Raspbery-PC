@@ -50,7 +50,9 @@ https://www.ecorobotics.com.na/products/raspberry-pi-a2-class-64gb-sd-cards-prel
 
 https://www.ecorobotics.com.na/products/noyito-5v-5a-25w-dc-to-dc-buck-module-12v-24v-9-35v-buck-to-5v-5a-power-converter-module?variant=44209011491053
 
-👉DC Power Plate --------------------------------------()
+👉DC Power Plate --------------------------------------(0.81) - (Qty: 1)
+
+https://www.ecorobotics.com.na/products/dc-power-plate?variant=32218370932798
 
 
 
