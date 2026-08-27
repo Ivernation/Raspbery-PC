@@ -84,7 +84,9 @@ https://www.ecorobotics.com.na/products/lafvin-universal-glue-gun-sd-a601-with-s
 
 
 
-👉(0.5mm) Copper Wire 30AWG (230m) Yellow -------------- () - (Qty: 1)
+👉(0.5mm) Copper Wire 30AWG (230m) Yellow -------------- ($6.88) - (Qty: 1)
+
+https://www.ecorobotics.com.na/products/100g-0-8mm-solder-2-0-flux?variant=42118374588653
 
 
 
