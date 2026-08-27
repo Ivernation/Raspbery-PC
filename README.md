@@ -23,9 +23,10 @@ The screen will be on a separate mount it's the one that that will that will con
 Getting into the specifics the component rang would include the following
 
 
-\====The Fundimentals====/ 
+               \====The Fundimentals====/ 
+          
 
-👉 Raspberry Pi 5 
+👉 Raspberry Pi 5 5GB
 
 
 
