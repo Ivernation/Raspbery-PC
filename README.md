@@ -109,6 +109,8 @@ https://www.ecorobotics.com.na/products/keyestudio-raspberry-pi4b-ir-camera-nigh
 
 👉Digital Sensor Module Capacitive Touch Switch - TTP223B (3.91) - (Qty: 2)
 
+https://www.ecorobotics.com.na/products/digital-sensor-ttp223b-module-capacitive-touch-switch?variant=31680148373566
+
 
 
 
