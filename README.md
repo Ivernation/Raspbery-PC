@@ -34,6 +34,8 @@ https://www.ecorobotics.com.na/products/raspberry-pi5-4gb?_pos=61&_sid=f076046b0
 
 👉3010 30x30x10mm 24V 2Pin DC Cooling Fan - ($11.42) - (Qty: 2)
 
+https://www.ecorobotics.com.na/products/3010-30x30x10mm-24v-2pin-dc-cooling-fan?variant=37933036175537
+
 
 
 
