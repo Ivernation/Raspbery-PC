@@ -40,10 +40,6 @@ https://www.ecorobotics.com.na/products/3010-30x30x10mm-24v-2pin-dc-cooling-fan?
 
 https://www.ecorobotics.com.na/products/7-hdmi-display-with-capacitive-touchscreen?variant=30983544635454
 
-👉CABLETIME USB-C Male to HDMI Female Adapter – 4K60 -($9.63) - (Qty: 1)
-
-https://www.ecorobotics.com.na/products/usb-c-to-hdmi-adapter?variant=47299192619245
-
 👉RASPBERRY PI A2-Class 64GB SD Card ----------------------($15.62) - (Qty: 1)
 
 https://www.ecorobotics.com.na/products/raspberry-pi-a2-class-64gb-sd-cards-preloaded-with-raspberry-pi-os-64bit?variant=48979922649325
@@ -54,7 +50,7 @@ https://www.ecorobotics.com.na/products/raspberry-pi-a2-class-64gb-sd-cards-prel
 
 https://www.ecorobotics.com.na/products/noyito-5v-5a-25w-dc-to-dc-buck-module-12v-24v-9-35v-buck-to-5v-5a-power-converter-module?variant=44209011491053
 
-👉
+👉DC Power Plate --------------------------------------()
 
 
 
