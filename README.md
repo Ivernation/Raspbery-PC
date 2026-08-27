@@ -28,19 +28,19 @@ Wisper: All prices are in USD 🫣
                                         \====The Fundimentals====/ 
           
 
-👉 Raspberry Pi 5 4GB --------------------------------------- ($112.10)-(Qty: 1)
+👉 Raspberry Pi 5 4GB ----------------------------------------- ($112.10)-(Qty: 1)
 
 https://www.ecorobotics.com.na/products/raspberry-pi5-4gb?_pos=61&_sid=f076046b0&_ss=r
 
-👉3010 30x30x10mm 24V 2Pin DC Cooling Fan ------------- ($11.42) - (Qty: 2)
+👉3010 30x30x10mm 24V 2Pin DC Cooling Fan -------------- ($11.42) - (Qty: 2)
 
 https://www.ecorobotics.com.na/products/3010-30x30x10mm-24v-2pin-dc-cooling-fan?variant=37933036175537
 
-👉DFROBOT 7'' HDMI Display with Capacitive Touchscreen - (154.49) - (Qty: 1)
+👉DFROBOT 7'' HDMI Display with Capacitive Touchscreen - ($154.49) - (Qty: 1)
 
 https://www.ecorobotics.com.na/products/7-hdmi-display-with-capacitive-touchscreen?variant=30983544635454
 
-👉CABLETIME USB-C Male to HDMI Female Adapter – 4K60 -()
+👉CABLETIME USB-C Male to HDMI Female Adapter – 4K60 -($9.63) - (Qty: 1)
 
 
 
