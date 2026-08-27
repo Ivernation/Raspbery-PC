@@ -49,7 +49,9 @@ variant=48979922649325
 
 https://www.ecorobotics.com.na/products/official-black-1m-micro-hdmi-to-standard-hdmi-for-pi4-5-and-pi400?variant=48075211997421
 
-👉CABLETIME HDMI 2.1 Female-to-Female Coupler – 8K60, 48Gbps () - (Qty: 1)
+👉CABLETIME HDMI 2.1 Female-to-Female Coupler – 8K60, 48Gbps ($1.65) - (Qty: 1)
+
+https://www.ecorobotics.com.na/products/hdmi-female-to-female-adapater?variant=47299192717549
 
 
 
