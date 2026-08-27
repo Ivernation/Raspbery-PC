@@ -88,6 +88,8 @@ https://www.ecorobotics.com.na/products/0-5mm-copper-wire-ok-line-30awg-230m-yel
 
 https://www.ecorobotics.com.na/products/100g-0-8mm-solder-2-0-flux?variant=42118374588653
 
+👉6x8 cm Universal PCB Prototype Board ------------------ ()
+
 
 
 
