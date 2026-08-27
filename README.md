@@ -80,7 +80,7 @@ https://www.ecorobotics.com.na/products/lafvin-11mm-190cm-glue-stick?variant=482
 
 https://www.ecorobotics.com.na/products/lafvin-universal-glue-gun-sd-a601-with-switch?variant=48200437006573
 
-👉(0.5mm) Copper Wire 30AWG (230m) Yellow --------------- (8.05)- (Qty: 1)
+👉(0.5mm) Copper Wire 30AWG (230m) Yellow --------------- ($8.05)- (Qty: 1)
 
 https://www.ecorobotics.com.na/products/0-5mm-copper-wire-ok-line-30awg-230m-yellow?variant=40722024399025
 
@@ -88,7 +88,9 @@ https://www.ecorobotics.com.na/products/0-5mm-copper-wire-ok-line-30awg-230m-yel
 
 https://www.ecorobotics.com.na/products/100g-0-8mm-solder-2-0-flux?variant=42118374588653
 
-👉6x8 cm Universal PCB Prototype Board ------------------ ()
+👉6x8 cm Universal PCB Prototype Board ------------------ ($4.52) - (Qty: 10)
+
+https://www.ecorobotics.com.na/products/6x8-cm-universal-pcb-prototype-board?variant=40298243195057
 
 
 
