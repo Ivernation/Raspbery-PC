@@ -107,7 +107,7 @@ https://www.ecorobotics.com.na/products/sound-detection-module-lm393?variant=424
 
 https://www.ecorobotics.com.na/products/keyestudio-raspberry-pi4b-ir-camera-night-vision-focal-adjustable-5mp-1080p-fish-eye-wide-angle-came?variant=47298991980781
 
-
+👉Digital Sensor Module Capacitive Touch Switch - TTP223B () - (Qty: 2)
 
 
 
