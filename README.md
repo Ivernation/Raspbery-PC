@@ -42,6 +42,8 @@ https://www.ecorobotics.com.na/products/7-hdmi-display-with-capacitive-touchscre
 
 👉CABLETIME USB-C Male to HDMI Female Adapter – 4K60 -($9.63) - (Qty: 1)
 
+https://www.ecorobotics.com.na/products/usb-c-to-hdmi-adapter?variant=47299192619245
+
 
 
 
