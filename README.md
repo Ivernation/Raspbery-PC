@@ -44,6 +44,7 @@ https://www.ecorobotics.com.na/products/7-hdmi-display-with-capacitive-touchscre
 
 https://www.ecorobotics.com.na/products/usb-c-to-hdmi-adapter?variant=47299192619245
 
+👉RASPBERRY PI A2-Class 64GB SD Card ----------------------()
 
 
 
