@@ -38,6 +38,8 @@ https://www.ecorobotics.com.na/products/3010-30x30x10mm-24v-2pin-dc-cooling-fan?
 
 👉DFROBOT 7'' HDMI Display with Capacitive Touchscreen - (154.49) - (Qty: 1)
 
+https://www.ecorobotics.com.na/products/7-hdmi-display-with-capacitive-touchscreen?variant=30983544635454
+
 
 
 
