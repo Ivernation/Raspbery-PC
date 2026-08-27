@@ -80,8 +80,9 @@ https://www.ecorobotics.com.na/products/lafvin-11mm-190cm-glue-stick?variant=482
 
 https://www.ecorobotics.com.na/products/lafvin-universal-glue-gun-sd-a601-with-switch?variant=48200437006573
 
-👉(0.5mm) Copper Wire 30AWG (230m) Yellow --------------- ()- (Qty: 1)
+👉(0.5mm) Copper Wire 30AWG (230m) Yellow --------------- (8.05)- (Qty: 1)
 
+https://www.ecorobotics.com.na/products/0-5mm-copper-wire-ok-line-30awg-230m-yellow?variant=40722024399025
 
 👉100G 0.8mm Solder 1.0% Flux --------------------------- ($6.88) - (Qty: 1)
 
