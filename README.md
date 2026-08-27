@@ -76,7 +76,9 @@ https://www.ecorobotics.com.na/products/800pcs-waterproof-solder-heat-shrink-sea
 
 https://www.ecorobotics.com.na/products/lafvin-11mm-190cm-glue-stick?variant=48200430125293
 
-👉Glue Gun with Switch SD-A601
+👉Glue Gun with Switch SD-A601 ---------------------------($9.36) - (Qty: 1)
+
+https://www.ecorobotics.com.na/products/lafvin-universal-glue-gun-sd-a601-with-switch?variant=48200437006573
 
 
 
