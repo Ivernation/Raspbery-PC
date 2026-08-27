@@ -46,6 +46,48 @@ https://www.ecorobotics.com.na/products/usb-c-to-hdmi-adapter?variant=4729919261
 
 👉RASPBERRY PI A2-Class 64GB SD Card ----------------------($15.62) - (Qty: 1)
 
+https://www.ecorobotics.com.na/products/raspberry-pi-a2-class-64gb-sd-cards-preloaded-with-raspberry-pi-os-64bit?variant=48979922649325
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
