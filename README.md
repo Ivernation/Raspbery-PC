@@ -71,7 +71,9 @@ https://www.ecorobotics.com.na/products/dc-power-plate?variant=32218370932798
 
 https://www.ecorobotics.com.na/products/800pcs-waterproof-solder-heat-shrink-seal-sleeve-wire-butt-splice-connectors-kit?variant=45741663977709
 
-👉Glue Stick (11mm x 190mm) ------------------------------- ()
+👉Glue Stick (11mm x 190mm) ------------------------------- ($11.43) - (Qty: 10)
+
+https://www.ecorobotics.com.na/products/lafvin-11mm-190cm-glue-stick?variant=48200430125293
 
 
 
