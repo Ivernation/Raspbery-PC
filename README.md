@@ -1,4 +1,4 @@
-# COMPONENT RANG
+# RASPBERRY PI PC
 
 Hello Stardance 👋 I've always wanted to build something like this, I'm really grateful that you gave me the chance to make it happen :D You see this is a custom sort of pc powered by the RASPBERRY PI 5. It's a perfect option as its practically build for the role and powerful enough to run Linux. The pc will contain things like...
 
@@ -26,7 +26,7 @@ Getting into the specifics the component rang would include the following
                \====The Fundimentals====/ 
           
 
-👉 Raspberry Pi 5 5GB
+👉 Raspberry Pi 5 4GB
 
 
 
