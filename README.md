@@ -42,7 +42,10 @@ https://www.ecorobotics.com.na/products/7-hdmi-display-with-capacitive-touchscre
 
 👉RASPBERRY PI A2-Class 64GB SD Card ----------------------($15.62) - (Qty: 1)
 
-https://www.ecorobotics.com.na/products/raspberry-pi-a2-class-64gb-sd-cards-preloaded-with-raspberry-pi-os-64bit?variant=48979922649325
+https://www.ecorobotics.com.na/products/raspberry-pi-a2-class-64gb-sd-cards-preloaded-with-raspberry-pi-os-64bit?
+variant=48979922649325
+
+RASPBERRY PI Official Black Micro-HDMI to Standard HDMI cable ()
 
                                         \====power supply====/
 
@@ -50,9 +53,11 @@ https://www.ecorobotics.com.na/products/raspberry-pi-a2-class-64gb-sd-cards-prel
 
 https://www.ecorobotics.com.na/products/noyito-5v-5a-25w-dc-to-dc-buck-module-12v-24v-9-35v-buck-to-5v-5a-power-converter-module?variant=44209011491053
 
-👉DC Power Plate --------------------------------------(0.81) - (Qty: 1)
+👉DC Power Plate ---------------------------------------------- (0.81) - (Qty: 1)
 
 https://www.ecorobotics.com.na/products/dc-power-plate?variant=32218370932798
+
+                                 \====Bringing Everything Together====/
 
 
 
