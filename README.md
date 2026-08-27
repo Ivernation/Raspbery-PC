@@ -1,6 +1,6 @@
 # COMPONENT RANG
 
-Hello Stardance 👋 I've always wanted to build something like this, I'm really grateful that you gave me the chance to make it happen :D You see this is a custom sort of pc powered by the RASPBERRY PI 5 it contains things like...
+Hello Stardance 👋 I've always wanted to build something like this, I'm really grateful that you gave me the chance to make it happen :D You see this is a custom sort of pc powered by the RASPBERRY PI 5. Its a prerfect option... it contains things like...
 
    🖥️ 7" touchscreen
    
