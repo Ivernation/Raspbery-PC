@@ -65,7 +65,9 @@ https://www.ecorobotics.com.na/products/noyito-5v-5a-25w-dc-to-dc-buck-module-12
 
 https://www.ecorobotics.com.na/products/dc-power-plate?variant=32218370932798
 
-👉DC-DC Adjustable Step-up Module ---------------------------- () - (Qty: 1)
+👉DC-DC Adjustable Step-up Module ---------------------------- ($3.31) - (Qty: 1)
+
+https://www.ecorobotics.com.na/products/dc-dc-adjustable-step-up-module-3v5v12v-to-19v24v30v36v-high-power-boost-voltage-stabilized-power-supply-module?_pos=1&_sid=752f08cfd&_ss=r
 
 ====Bringing Everything Together====
 -
