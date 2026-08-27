@@ -99,9 +99,11 @@ https://www.ecorobotics.com.na/products/dupont-female-to-female-20-cm-40pcs-jump
 ====Final Touches====
 -
 
-👉Sound Detection Module - LM393------------------------- () - (Qty: 1)
+👉Sound Detection Module - LM393------------------------- ($2.44) - (Qty: 2)
 
 https://www.ecorobotics.com.na/products/sound-detection-module-lm393?variant=42421146321133
+
+👉KEYESTUDIO Raspberry Pi4B IR Camera ------------------ () - (Qty: 1)
 
 
 
