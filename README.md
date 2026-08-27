@@ -28,7 +28,7 @@ Wisper: All prices are in USD 🫣
                                         \====The Fundimentals====/ 
           
 
-👉 Raspberry Pi 5 4GB ---------- ($112.10)
+👉 Raspberry Pi 5 4GB ---------- ($112.10)- (Qny)
 
 https://www.ecorobotics.com.na/products/raspberry-pi5-4gb?_pos=61&_sid=f076046b0&_ss=r
 
