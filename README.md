@@ -99,7 +99,7 @@ https://www.ecorobotics.com.na/products/dupont-female-to-female-20-cm-40pcs-jump
 ====Final Touches====
 -
 
-👉
+👉Sound Detection Module - LM393------------------------- () - (Qty: 1)
 
 
 
