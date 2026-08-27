@@ -67,9 +67,11 @@ https://www.ecorobotics.com.na/products/dc-power-plate?variant=32218370932798
 
                                  \====Bringing Everything Together====/
 
-👉Wire Splicing Kit ----------------------------------- ($15.93) - (Qty: 1)  
+👉Wire Splicing Kit --------------------------------------- ($15.93) - (Qty: 1)  
 
 https://www.ecorobotics.com.na/products/800pcs-waterproof-solder-heat-shrink-seal-sleeve-wire-butt-splice-connectors-kit?variant=45741663977709
+
+👉Glue Stick (11mm x 190mm) ------------------------------- ()
 
 
 
