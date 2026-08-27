@@ -24,10 +24,10 @@ Getting into the specifics the component rang would include the following
 
 Wisper: All prices are in USD 🫣
 
-
-                                        \====The Fundimentals====/ 
+  ====The Fundamentals====
+ -
+                                        
           
-
 👉 Raspberry Pi 5 4GB ----------------------------------------- ($112.10)-(Qty: 1)
 
 https://www.ecorobotics.com.na/products/raspberry-pi5-4gb?_pos=61&_sid=f076046b0&_ss=r
@@ -54,8 +54,8 @@ https://www.ecorobotics.com.na/products/official-black-1m-micro-hdmi-to-standard
 https://www.ecorobotics.com.na/products/hdmi-female-to-female-adapater?variant=47299192717549
 
 
-
-                                        \====power supply====/
+ ====power supply====
+-
 
 👉NOYITO 5V 5A 25W DC to DC Buck Module ---------------- ($12.53) - (Qty: 2)
 
@@ -65,7 +65,8 @@ https://www.ecorobotics.com.na/products/noyito-5v-5a-25w-dc-to-dc-buck-module-12
 
 https://www.ecorobotics.com.na/products/dc-power-plate?variant=32218370932798
 
-                                 \====Bringing Everything Together====/
+====Bringing Everything Together====
+-
 
 👉Wire Splicing Kit --------------------------------------- ($15.93) - (Qty: 1)  
 
@@ -75,6 +76,7 @@ https://www.ecorobotics.com.na/products/800pcs-waterproof-solder-heat-shrink-sea
 
 https://www.ecorobotics.com.na/products/lafvin-11mm-190cm-glue-stick?variant=48200430125293
 
+👉Glue Gun with Switch SD-A601
 
 
 
