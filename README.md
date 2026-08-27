@@ -50,7 +50,8 @@ https://www.ecorobotics.com.na/products/raspberry-pi-a2-class-64gb-sd-cards-prel
 
                                         \====power supply====/
 
-👉NOYITO 5V 5A 25W DC to DC Buck Module ------------------()
+👉NOYITO 5V 5A 25W DC to DC Buck Module ---------------- ($12.53) - (Qty: 2)
+
 
 
 
