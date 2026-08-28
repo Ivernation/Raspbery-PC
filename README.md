@@ -51,6 +51,8 @@ https://www.ecorobotics.com.na/products/official-black-1m-micro-hdmi-to-standard
 
 https://www.ecorobotics.com.na/products/hdmi-female-to-female-adapater?variant=47299192717549
 
+👉RASPBERRY PI 5 Active Cooler --------------------- () - (Qty: 1)
+
 
  ====power supply====
 -
