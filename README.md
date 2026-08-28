@@ -107,9 +107,9 @@ https://www.ecorobotics.com.na/products/dupont-female-to-female-20-cm-40pcs-jump
 
 https://www.ecorobotics.com.na/products/sound-detection-module-lm393?variant=42421146321133
 
-👉SONOFF Nextion Box Speaker (Silver） ------------------ (12.72) - (Qty: 1)
+👉SONOFF Nextion Box Speaker (Silver） ------------------ (7.46) - (Qty: 1)
 
-https://www.ecorobotics.com.na/products/keyestudio-raspberry-pi4b-ir-camera-night-vision-focal-adjustable-5mp-1080p-fish-eye-wide-angle-came?variant=47298991980781
+sonoff-nextion-box-spe
 
 👉Digital Sensor Module Capacitive Touch Switch - TTP223B (3.91) - (Qty: 2)
 
