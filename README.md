@@ -6,9 +6,7 @@ Hello Stardance 👋 I've always wanted to build something like this, I'm really
    🖥️ 7" touchscreen
    
    🧠 Raspberry Pi 5
-   
-   📷 IR-capable camera
-   
+  
    ⌨️ External keyboard
    
    🖱️ External mouse
@@ -18,7 +16,7 @@ Hello Stardance 👋 I've always wanted to build something like this, I'm really
    🖨️ 3D-printed enclosure
 
 
-The screen will be on a separate mount it's the one that that will that will contain things like the speakers, microphone, camera and the display of course. It will be connected to the pc with an HDMI cable. This also means the pc can connect to any other display that supports HDMI input just like any regular pc would!
+The screen will be on a separate mount it's the one that that will that will contain things like the speakers, microphoneand the display of course. It will be connected to the pc with an HDMI cable. This also means the pc can connect to any other display that supports HDMI input just like any regular pc would!
 
 Getting into the specifics the component rang would include the following
 
