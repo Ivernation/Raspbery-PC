@@ -53,6 +53,8 @@ https://www.ecorobotics.com.na/products/hdmi-female-to-female-adapater?variant=4
 
 👉RASPBERRY PI 5 Active Cooler --------------------- () - (Qty: 1)
 
+CABLETIME 7-Port USB-A 3.0 Powered Hub -------------- () - (Qty: 1)
+
 
  ====power supply====
 -
