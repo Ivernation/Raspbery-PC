@@ -109,7 +109,7 @@ https://www.ecorobotics.com.na/products/sound-detection-module-lm393?variant=424
 
 👉SONOFF Nextion Box Speaker (Silver） ------------------ (7.46) - (Qty: 1)
 
-sonoff-nextion-box-spe
+https://www.ecorobotics.com.na/products/sonoff-nextion-box-speaker-silver?variant=47354713932013
 
 👉Digital Sensor Module Capacitive Touch Switch - TTP223B (3.91) - (Qty: 2)
 
