@@ -1,6 +1,8 @@
 # RASPBERRY PI PC
 
-Hello Stardance 👋 I've always wanted to build something like this, I'm really grateful that you gave me the chance to make it happen :D You see this is a custom sort of pc powered by the RASPBERRY PI 5. It's a perfect option as its practically build for the role and powerful enough to run Linux. The pc will contain things like...
+Hello Stardance 👋 I've always wanted to build something like this, I'm really grateful that you gave me the chance to make it happen :D 
+
+You see this is a custom sort of pc powered by the RASPBERRY PI 5. 
 
 
                                         
