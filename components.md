@@ -1,6 +1,4 @@
-# Component Range
-
-# Component Range
+# Component Rang
 
 ## The Fundamentals
 
