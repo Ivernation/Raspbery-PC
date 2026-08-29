@@ -16,6 +16,8 @@ The pc case will feature various cavities in its lining to allow different ports
 
 The Custom monitor
 -
+![Alt text](ScreenMount.png)
+
 As I mentioned before the project will include a custom monitor featuring the DFROBOT 7-inch HDMI Display. It too will have a separate 3d printed enclosure/stand. It will be connected to the pc with an HDMI cable but becaus the screen does not feature speakers or any accommodation for audio I will also have to add a 3.5mm audio jack so that audio from the Raspberry Pi can be routed to the monitor enclosure and it will be connected to the Pc with a plain aux cable. The audio sent by the Pc will also have to pass through audio amplifers to be able to drive the speakers
 
 
