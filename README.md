@@ -8,15 +8,15 @@ The project itself isn't just a computer it's a whole custom desktop setup with 
 
 The Pc and Its Enclosure
 -
-![pccase](IMG_20260829_192935_138.jpg)
+![pccase](images/IMG_20260829_192935_138.jpg)
 
 The Pc will need many components to function properly. The raspberry pi will be mounted flat against the inner walls of casing and various cables and connectors will be plugged into it to allow it to communicate with other components. It will receive power from a 12v dc wall mounted adapter but before that it will pass through a buck converter that brings the voltage down to the recommended 5V
 
-The pc case will feature various cavities in its lining to allow different ports to be positioned for input and output. It also has two ventilation holes the one Infront for intake and the one at the back for exhust. Active coolers will be positioned there to allow a steady stream of cool air. This is especially important because the raspberry Pi can produce excessive heat during load and ventilation helps cool down the processor. The active coolers I chose though due to a lack of options operate at 24V while the power supply can only give 12V, so a dc-dc step up module is necessary for their function.
+The pc case will feature various cavities in its lining to allow different ports to be positioned for input and output. It also has two ventilation holes the one Infront for intake and the one at the back for exhaust. Active coolers will be positioned there to allow a steady stream of cool air. This is especially important because the raspberry Pi can produce excessive heat during load and ventilation helps cool down the processor. The active coolers I chose though due to a lack of options operate at 24V while the power supply can only give 12V, so a dc-dc step up module is necessary for their function.
 
 The Custom monitor
 -
-![Alt text](IMG_20260829_192937_439.jpg)
+![monitor](images/IMG_20260829_192937_439.jpg)
 
 As I mentioned before the project will include a custom monitor featuring the DFROBOT 7-inch HDMI Display. It too will have a separate 3d printed enclosure/stand. It will be connected to the pc with an HDMI cable but becaus the screen does not feature speakers or any accommodation for audio I will also have to add a 3.5mm audio jack so that audio from the Raspberry Pi can be routed to the monitor enclosure and it will be connected to the Pc with a plain aux cable. The audio sent by the Pc will also have to pass through audio amplifers to be able to drive the speakers
 
