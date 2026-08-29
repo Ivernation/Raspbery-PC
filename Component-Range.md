@@ -98,3 +98,5 @@ https://www.ecorobotics.com.na/products/digital-sensor-ttp223b-module-capacitive
 👉3.5mm Audio MP3 Stereo Headphones Video Microphone Interface Module ($2.30) - (Qty: 2)
 
 https://www.ecorobotics.com.na/products/3-5mm-audio-mp3-stereo-headphones-video-microphone-interface-module?variant=37933013303473
+
+👉Logitech Corded Keyboard & Mouse MK120
