@@ -9,7 +9,7 @@ The project itself isn't just a computer it's a whole custom desktop setup with 
 The Pc and The Enclosure
 -
 
-![Raspberry Pi PC]([https://example.com/path/to/image.jpg](https://www.bing.com/images/search?view=detailV2&ccid=7bEK8zNR&id=E6C7FEA53AC5E1F0716CB2735E168C22928D0577&thid=OIP.7bEK8zNR1hmj63EuvmzdYgHaLH&mediaurl=https%3a%2f%2fsallysbakingaddiction.com%2fwp-content%2fuploads%2f2013%2f04%2ftriple-chocolate-cake-4.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.edb10af33351d619a3eb712ebe6cdd62%3frik%3ddwWNkiKMFl5zsg%26pid%3dImgRaw%26r%3d0&exph=1800&expw=1200&q=cake&FORM=IRPRST&ck=987532B7350D5F006AC59D34E663780C&selectedIndex=0&itb=0))
+![Raspberry Pi PC]([https://example.com/path/to/image.jpg](https://www.bing.com/images/search?view=detailV2&ccid=7bEK8zNR&id=E6C7FEA53AC5E1F0716CB2735E168C22928D0577&thid=OIP.7bEK8zNR1hmj63EuvmzdYgHaLH&mediaurl=https%3a%2f%2fsallysbakingaddiction.com%2fwp-content%2fuploads%2f2013%2f04%2ftriple-chocolate-cake-4.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.edb10af33351d619a3eb712ebe6cdd62%3frik%3ddwWNkiKMFl5zsg%26pid%3dImgRaw%26r%3d0&exph=1800&expw=1200&q=cake&FORM=IRPRST&ck=987532B7350D5F006AC59D34E663780C&selectedIndex=0&itb=0)
                                         
           
 
