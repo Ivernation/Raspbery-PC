@@ -1,5 +1,6 @@
 Component Rang
 -
+All the things I need to build the Pc
 ==================================================
 -
 
