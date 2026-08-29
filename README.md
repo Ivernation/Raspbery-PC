@@ -53,7 +53,7 @@ https://www.ecorobotics.com.na/products/hdmi-female-to-female-adapater?variant=4
 
 👉RASPBERRY PI 5 Active Cooler --------------------- () - (Qty: 1)
 
-👉CABLETIME 7-Port USB-A 3.0 Powered Hub -------------- (21.84) - (Qty: 1)
+👉CABLETIME 7-Port USB-A 3.0 Powered Hub -------------- ($21.84) - (Qty: 1)
 
 https://www.ecorobotics.com.na/products/7-in-1-usb-a-hub?variant=47299191668973
 
@@ -100,7 +100,7 @@ https://www.ecorobotics.com.na/products/100g-0-8mm-solder-2-0-flux?variant=42118
 
 https://www.ecorobotics.com.na/products/6x8-cm-universal-pcb-prototype-board?variant=40298243195057
 
-👉Dupont Female to Female 20 cm 40pcs Jumper Cable ------ (3.75) - (Qty: 1)
+👉Dupont Female to Female 20 cm 40pcs Jumper Cable ------ ($3.75) - (Qty: 1)
 
 https://www.ecorobotics.com.na/products/dupont-female-to-female-20-cm-40pcs-jumper-cable?variant=30711634919486
 
@@ -111,16 +111,18 @@ https://www.ecorobotics.com.na/products/dupont-female-to-female-20-cm-40pcs-jump
 
 https://www.ecorobotics.com.na/products/sound-detection-module-lm393?variant=42421146321133
 
-👉SONOFF Nextion Box Speaker (Silver） ------------------ (7.46) - (Qty: 1)
+👉SONOFF Nextion Box Speaker (Silver） ------------------ ($7.46) - (Qty: 1)
 
 https://www.ecorobotics.com.na/products/sonoff-nextion-box-speaker-silver?variant=47354713932013
 
-👉Digital Sensor Module Capacitive Touch Switch - TTP223B (3.91) - (Qty: 2)
+👉Digital Sensor Module Capacitive Touch Switch - TTP223B ($3.91) - (Qty: 2)
 
 https://www.ecorobotics.com.na/products/digital-sensor-ttp223b-module-capacitive-touch-switch?
 variant=31680148373566
 
-👉3.5mm Audio MP3 Stereo Headphones Video Microphone Interface Module
+👉3.5mm Audio MP3 Stereo Headphones Video Microphone Interface Module ($2.30) - (Qty: 2)
+
+https://www.ecorobotics.com.na/products/3-5mm-audio-mp3-stereo-headphones-video-microphone-interface-module?variant=37933013303473
 
 
 
