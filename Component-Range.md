@@ -1,6 +1,7 @@
 ~All the things I need to build the Pc
 
 Whisper: All prices are in USD
+Whisper: All prices are in USD!
 
 
 ====The Fundamentals====
