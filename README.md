@@ -8,7 +8,7 @@ The project itself isn't just a computer it's a whole custom desktop setup with 
 
 The Pc and Its Enclosure
 -
-![pccase](images/PCcase.png)
+![pccase](IMG_20260829_192935_138.jpg)
 
 The Pc will need many components to function properly. The raspberry pi will be mounted flat against the inner walls of casing and various cables and connectors will be plugged into it to allow it to communicate with other components. It will receive power from a 12v dc wall mounted adapter but before that it will pass through a buck converter that brings the voltage down to the recommended 5V
 
