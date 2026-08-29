@@ -1,7 +1,10 @@
 Component Rang
 -
+================================================================================================
+-
 
 ====The Fundamentals====
+-
 👉 Raspberry Pi 5 4GB ----------------------------------------- ($112.10)-(Qty: 1)
 
 https://www.ecorobotics.com.na/products/raspberry-pi5-4gb?_pos=61&_sid=f076046b0&_ss=r
@@ -35,6 +38,8 @@ https://www.ecorobotics.com.na/products/raspberry-pi-active-cooler?variant=44604
 https://www.ecorobotics.com.na/products/7-in-1-usb-a-hub?variant=47299191668973
 
 ====power supply====
+-
+
 👉NOYITO 5V 5A 25W DC to DC Buck Module ---------------- ($12.53) - (Qty: 2)
 
 https://www.ecorobotics.com.na/products/noyito-5v-5a-25w-dc-to-dc-buck-module-12v-24v-9-35v-buck-to-5v-5a-power-converter-module?variant=44209011491053
@@ -77,6 +82,8 @@ https://www.ecorobotics.com.na/products/6x8-cm-universal-pcb-prototype-board?var
 https://www.ecorobotics.com.na/products/dupont-female-to-female-20-cm-40pcs-jumper-cable?variant=30711634919486
 
 ====Final Touches====
+-
+
 👉Sound Detection Module - LM393------------------------- ($2.44) - (Qty: 2)
 
 https://www.ecorobotics.com.na/products/sound-detection-module-lm393?variant=42421146321133
