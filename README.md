@@ -9,14 +9,8 @@ The project itself isn't just a computer it's a whole custom desktop setup with 
 The Pc and The Enclosure
 -
 
-         https://tse4.mm.bing.net/th/id/OIP.L1pjNHcQht8lX0bQQleWfgHaLH?r=0&rs=1&pid=ImgDetMain&o=7&rm=3             
-          
-![Raspberry Pi PC]([ https://tse4.mm.bing.net/th/id/OIP.L1pjNHcQht8lX0bQQleWfgHaLH?r=0&rs=1&pid=ImgDetMain&o=7&rm=3](https://csg.us-east-1.prd.tinkercad.com/things/akY1wgbHlDN/t725.png?rev=1787894669679000000&s=&v=1) )
-
-
-
-
-
+       
+https://csg.us-east-1.prd.tinkercad.com/things/akY1wgbHlDN/t725.png?rev=1787894669679000000&s=&v=1
 
 
 
