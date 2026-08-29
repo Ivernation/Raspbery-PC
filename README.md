@@ -6,10 +6,13 @@ You see this is a custom sort of Pc powered by the RASPBERRY Pi 5. It's meant to
 
 The project itself isn't just a computer it's a whole custom desktop setup with a display. The display specifically is called the "DFROBOT 7'' HDMI Display with Capacitive Touchscreen" though I don't really plan on using the touch screen function :/ 
 
-The Pc and The Enclosure
+The Pc and Its Enclosure
 -
 
-![Raspberry Pi PC](https://csg.us-east-1.prd.tinkercad.com/things/akY1wgbHlDN/t725.png?rev=1787894669679000000&s=&v=1)
+The Pc will need many components to function properly. The raspberry pi will be mounted flat against the inner walls of casing and various cables and connectors will be plugged into it to allow it to communicate with other components. It will receive power from a 12v dc wall mounted adapter but before that it will pass through a voltage regulator that brings the voltage and current down to the recommended 5V 5A 
+
+The pc case will feature various cavities in its lining to allow different ports to be positioned for input and output. It also has two ventilation holes the one Infront for intake and the one at the back for outtake. A
+
 
 
 
