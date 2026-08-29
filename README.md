@@ -12,7 +12,7 @@ The Pc and The Enclosure
        
 https://csg.us-east-1.prd.tinkercad.com/things/akY1wgbHlDN/t725.png?rev=1787894669679000000&s=&v=1
 
-
+![Raspberry Pi PC](https://csg.us-east-1.prd.tinkercad.com/things/akY1wgbHlDN/t725.png?rev=1787894669679000000&s=&v=1)
 
 
 
