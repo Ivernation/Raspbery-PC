@@ -51,6 +51,7 @@ https://www.ecorobotics.com.na/products/dc-power-plate?variant=32218370932798
 https://www.ecorobotics.com.na/products/dc-dc-adjustable-step-up-module-3v5v12v-to-19v24v30v36v-high-power-boost-voltage-stabilized-power-supply-module?_pos=1&_sid=752f08cfd&_ss=r
 
 ====Bringing Everything Together====
+-
 👉Wire Splicing Kit --------------------------------------- ($15.93) - (Qty: 1)
 
 https://www.ecorobotics.com.na/products/800pcs-waterproof-solder-heat-shrink-seal-sleeve-wire-butt-splice-connectors-kit?variant=45741663977709
