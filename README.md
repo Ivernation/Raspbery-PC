@@ -9,7 +9,7 @@ The project itself isn't just a computer it's a whole custom desktop setup with 
 The Pc and The Enclosure
 -
 
-
+![Raspberry Pi PC](https://example.com/path/to/image.jpg)
                                         
           
 
