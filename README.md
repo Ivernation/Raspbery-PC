@@ -11,7 +11,7 @@ The Pc and The Enclosure
 
          https://tse4.mm.bing.net/th/id/OIP.L1pjNHcQht8lX0bQQleWfgHaLH?r=0&rs=1&pid=ImgDetMain&o=7&rm=3             
           
-
+![Raspberry Pi PC]( https://tse4.mm.bing.net/th/id/OIP.L1pjNHcQht8lX0bQQleWfgHaLH?r=0&rs=1&pid=ImgDetMain&o=7&rm=3 )
 
 
 
