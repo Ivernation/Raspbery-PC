@@ -42,3 +42,5 @@
 | Digital Sensor Module Capacitive Touch Switch - TTP223B       |  $3.91 |   2 | Provides touch-based controls      | [Link](https://www.ecorobotics.com.na/products/digital-sensor-ttp223b-module-capacitive-touch-switch?variant=31680148373566)               |
 | 3.5mm Audio MP3 Stereo Headphones/Microphone Interface Module |  $2.30 |   2 | Provides 3.5mm audio connections   | [Link](https://www.ecorobotics.com.na/products/3-5mm-audio-mp3-stereo-headphones-video-microphone-interface-module?variant=37933013303473) |
 | Logitech Corded Keyboard & Mouse MK120                        | $21.17 |   1 | Main keyboard and mouse input      | [Link](https://www.ecorobotics.com.na/products/logitech-corded-keyborad-mouse-mk120?_pos=1&_sid=849881a7a&_ss=r)                           |
+| DIGI-KEY Radial Magnet for AS5600 | $1.19 |   8 | Magnetically attaches the PC cover to the main body while allowing easy removal and reconnection | [Link](https://www.ecorobotics.com.na/products/radial-magnet-for-use-with-as5600-rotary-angle-sensor?_pos=43&_sid=e543bc7f3&_ss=r) |
+
