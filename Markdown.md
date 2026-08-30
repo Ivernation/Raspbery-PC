@@ -10,5 +10,5 @@ I started creating the model for the display and its front panel as well as adde
 I added mount holes for the raspberry Pi and its cooling fans.
 
 ## Aug 30
-I swiched the raspberries mount holes for better
+I swiched the raspberries mount holes for better ones and made the cooling fans space a more tight fit.
 
