@@ -10,10 +10,13 @@ I started creating the model for the display and its front panel as well as adde
 ![pccase](images/IMG_20260829_192935_138.jpg)
 
 ## Aug 29
-I added mount holes for the raspberry Pi and a space for the cooling fans.
+I added mount holes for the raspberry Pi and a space for the cooling fans as well as adding holes in the display to fit two speakers for audio
 
 ![pccase](images/IMG_20260830_220321_302.jpg)
+![monitor](images/IMG_20260829_192937_439.jpg)
 
 ## Aug 30
 I made the space for the cooling fans a tighter fit and added indents in the Pc's cover to fit magnets so the cover panel can be held magnetically. I also changed the design for the Pc a little and I slightly adjusted the Pc cover to be larger in accommodation.
+
+![pccase](images/IMG_20260830_220324_241.jpg)
 
