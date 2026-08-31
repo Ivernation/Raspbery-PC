@@ -18,7 +18,11 @@ The Custom monitor
 -
 ![monitor](images/IMG_20260829_192937_439.jpg)
 
-As I mentioned before the project will include a custom monitor featuring the DFROBOT 7-inch HDMI Display. It too will have a separate 3d printed enclosure/stand. It will be connected to the pc with an HDMI cable but becaus the screen does not feature speakers or any accommodation for audio I will also have to add a 3.5mm audio jack so that audio from the Raspberry Pi can be routed to the monitor enclosure and it will be connected to the Pc with a plain aux cable. The audio sent by the Pc will also have to pass through audio amplifers to be able to drive the speakers
+As I mentioned before the project will include a custom monitor featuring the DFROBOT 7-inch HDMI Display. It too will have a separate 3d printed enclosure/stand. It will be connected to the pc with an HDMI cable but becaus the screen does not feature speakers or any accommodation for audio I will also have to add a 3.5mm audio jack so that audio from the Raspberry Pi can be routed to the monitor enclosure and it will be connected to the Pc with a plain aux cable. The audio sent by the Pc will also have to pass through audio amplifiers to be able to drive the speakers
+
+## 3D Printing
+
+As much as I'd loved to, I don't have a 3d printer, so I have to get the parts 3d printed by a local company called Printheok. You can find more information about it in the components file
 
 
 
