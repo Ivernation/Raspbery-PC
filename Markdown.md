@@ -14,7 +14,7 @@ I started creating the model for the display and its front panel as well as adde
 
 ![front panel](images/IMG_20260830_220318_020.jpg)
 
-~Outdated pc case (V2)
+~Outdated pc case (V2 - Leading)
 
 ![pccase](images/IMG_20260829_192935_138.jpg)
 
@@ -32,11 +32,11 @@ Outdated pc case (V3)
 ## Aug 30
 I made the space for the cooling fans a tighter fit and added indents in the Pc's cover to fit magnets so the cover panel can be held magnetically. I also changed the design for the Pc a little and I slightly adjusted the Pc cover to be larger in accommodation.
 
-~Pc case
+~Pc case (V4 - Leading)
 
 ![pccase](images/IMG_20260830_220324_241.jpg)
 
-~Pc cover
+~Pc cover (V2 - Leading)
 
 ![pccov](images/IMG_20260830_220328_357.jpg)
 
