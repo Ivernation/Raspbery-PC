@@ -14,7 +14,7 @@ I started creating the model for the display and its front panel as well as adde
 
 ![front panel](images/IMG_20260830_220318_020.jpg)
 
-~Outdated pc case (V2 - Leading)
+~Outdated pc case (V2)
 
 ![pccase](images/IMG_20260829_192935_138.jpg)
 
@@ -25,7 +25,7 @@ Outdated pc case (V3)
 
 ![pccase](images/IMG_20260830_220321_302.jpg)
 
-~Monitor case (V2)
+~Monitor case (V2 - Leading)
 
 ![monitor](images/IMG_20260829_192937_439.jpg)
 
