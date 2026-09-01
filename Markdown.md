@@ -10,7 +10,7 @@ I started creating the model for the display and its front panel as well as adde
 
 ![monitor](images/IMG_20260830_220315_768.jpg)
 
-~Monitor Front panel
+~Monitor Front panel (V1 - Leading)
 
 ![front panel](images/IMG_20260830_220318_020.jpg)
 
